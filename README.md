@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/logo192.png" alt="React JavaScript Logo" "width="80">
+  <img src="public/logo192.png" alt="React JavaScript Logo" "width="55">
 </p>
 
 <h1 align="center">Economic Application React JavaScript </h1>
