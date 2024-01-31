@@ -12,7 +12,7 @@
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/fairytalesbrand/economic-app-reactjs
+git clone https://github.com/fairytalesbrand/economic-app-reactjs.git
 cd economic-app-reactjs
 npm install -s
 npm start 
