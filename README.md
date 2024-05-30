@@ -11,8 +11,13 @@
 
 ### Clone the Repository
 
-```bash
 git clone https://github.com/fairytalesbrand/economic-app-reactjs.git
 cd economic-app-reactjs
 npm install -s
 npm start 
+
+- [Credentials](#credentials)
+
+<p align="center">
+  <img src="Meta React Native Specialization ZEQD5MAX39ZJ.jpg" alt="Machine Learning Logo" width="825">
+</p>
